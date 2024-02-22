@@ -1,6 +1,6 @@
 Scripts for longitudinal analyses of immune cell dynamics dervied from image mass cytometry data in the MEMORI cohort
 
-IMC analyses: 
+# IMC analyses: 
 
 1_Metacluster_plots.R \
 This scripts plots cell count data for metacluster C1-28 (from phenograph analyses in OMIQ) during treatment in NRP and REP
