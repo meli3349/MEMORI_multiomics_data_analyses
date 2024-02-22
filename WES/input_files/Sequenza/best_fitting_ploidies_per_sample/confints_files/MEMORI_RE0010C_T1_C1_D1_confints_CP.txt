@@ -1,0 +1,4 @@
+cellularity	ploidy.estimate	ploidy.mean.cn
+0.71	2.5	2.3731357943042
+0.71	2.5	2.3731357943042
+0.72	2.5	2.3731357943042
