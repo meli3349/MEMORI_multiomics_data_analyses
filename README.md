@@ -3,7 +3,7 @@ Scripts used for the MEMORI longitudinal genetic analyses in EAC during neoadjuv
 
 CNA analyses: 
 
-1_Bin_sequenza_segments_into_100kB_bins.R
+1_Bin_sequenza_segments_into_100kB_bins.R \
 This script bins Sequenza files with allele-specific copy number profiles into 100kb long bins.
 
 2_Plottingsegments_CNS.R
