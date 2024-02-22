@@ -1,0 +1,25 @@
+cluster_name	Biology
+IC1	macrophages
+IC2	macrophages
+IC3	other_t_cells
+IC4	CD8
+IC5	other_t_cells
+IC6	macrophages
+IC7	exhausted_CD8
+IC8	myleoid_cells
+IC9	unspecific 
+IC10	macrophages
+IC11	
+IC12	myleoid_cells
+IC13	other_t_cells
+IC14	unspecific 
+IC15	activated_CD8
+IC16	granulocytes
+IC17	unspecific 
+IC18	exhausted_CD8
+IC19	myleoid_cells
+IC20	unspecific 
+IC21	other_t_cells
+IC22	activated_CD8
+IC23	granulocytes
+IC24	myleoid_cells
