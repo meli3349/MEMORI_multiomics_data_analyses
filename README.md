@@ -1,1 +1,1 @@
-Scripts used to analyse MEMORI multi-omic data analyses
+Scripts used for the MEMORI longitudinal multiomic analyses in EAC during neoadjuvant treatment
