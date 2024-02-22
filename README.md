@@ -1,7 +1,7 @@
 Scripts used for the MEMORI longitudinal genetic analyses in EAC during neoadjuvant treatment
 
 
-CNA analyses: 
+# CNA analyses: 
 
 1_Bin_sequenza_segments_into_100kB_bins.R \
 This script bins Sequenza files with allele-specific copy number profiles into 100kb long bins.
@@ -16,7 +16,7 @@ This script plots the percentage of exome with CNS>3, CNS=3, >2:0, 2:0, 1:0, 1:1
 This script plots the fragment size of clonal, subclonal and private CNAs in REP and NRP. 
 
 
-SNV analyses: 
+# SNV analyses: 
 
 5_Filtering_SNVs.R \
 This script filters somatic SNVs, which passed Annova filtering criteria, show > 5 total reads in tumour and normal control and > 3 variant reads in tumour sample. 
@@ -40,7 +40,7 @@ This script plots COSMIC signatures proportions in clinical subgroups and propor
 This script runs dNdS analysis on naive, chemo-induced and radiochemo induced SNVs. 
 
 
-Intogen driver genes:
+# Intogen driver genes:
  
 12_Plot_genetic_alterations_driver.R \
 This script plots CNA, SNVs and indels in 108 Intogen driver genes for oesophageal and gastric cancer 
@@ -49,7 +49,7 @@ This script plots CNA, SNVs and indels in 108 Intogen driver genes for oesophage
 This script quantifies  Intogen driver genes with genetic alterations (CNAs, SNVs or indels).
 
 
-Neoantigens:
+# Neoantigens:
 
 14_Filtering_neoantigenic_SNVs.R \
 This script filters neoantigenic SNVs, which passed Annova filtering criteria, show > 5 total reads in tumour and normal control and > 3 variant reads in tumour sample. 
