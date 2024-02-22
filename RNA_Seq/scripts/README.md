@@ -6,9 +6,9 @@ Longitudinal RNA expression analyses in MEMORI cohort
 This script filters samples with >1.5 million reads and normalises the raw gene count into count per million (cpm) expression.
 
 2_Unsupervised_Hallmark_cancer_enrichment.R \
-- enrichment analyses for Hallmark of cancer pathways \
-- Unsupervised clustering based on Hallmark of cancer gene sets \
-- Loading plots showing enrichment of hallmark of cancer pathways \
+Enrichment analyses for Hallmark of cancer pathways \
+Unsupervised clustering based on Hallmark of cancer gene sets \
+Loading plots showing enrichment of hallmark of cancer pathways \
 
 3_Supervised_Hallmark_cancer_enrichment.R \
 This scripts performs supervised hierarchical clustering based on hallmark of cancer pathway expression.
