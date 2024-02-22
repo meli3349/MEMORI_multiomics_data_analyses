@@ -1,0 +1,35 @@
+KEGG.pathways.of.interest	Abbreviated.pathway.of.interest
+Hedgehog signaling pathway	Hedgehog sig.
+TGF-beta signaling pathway	TGF-beta sig.
+JAK-STAT signaling pathway	JAK-STAT sig.
+Wnt signaling pathway	Wnt sig.
+Chemokine signaling pathway	Chemokine sig.
+Ras signaling pathway	Ras sig.
+Cytokine-cytokine receptor interaction	Cytokine receptor interaction
+MAPK signaling pathway	MAPK sig.
+PI3K-Akt signaling pathway	PI3K-Akt sig.
+Transcriptional misregulation in cancer	Transcript.misregul.(cancer)
+NF-kappa B signaling pathway	NF-kappa B sig.
+Cell cycle	Cell cycle
+Toll-like receptor signaling pathway	Toll-like receptor sig.
+PPAR signaling pathway	PPAR sig.
+p53 signaling pathway	p53 sig.
+Th17 cell differentiation	Th17 different.
+Th1 and Th2 cell differentiation	Th1&Th2 differentiation
+Antigen processing and presentation	Antigen processing and presentation
+Natural killer cell mediated cytotoxicity	Natural killer cell cytotoxicity
+mTOR signaling pathway	mTOR sig.
+TNF signaling pathway	TNF sig.
+PD-L1 expression and PD-1 checkpoint pathway in cancer	PD-L1 and PD-1 checkpoint in cancer
+Gastric cancer	Gastric cancer
+Gastric acid secretion	Gastric acid secretion
+B cell receptor signaling pathway	B cell receptor sig.
+T cell receptor signaling pathway	T cell receptor sig.
+IL-17 signaling pathway	IL-17 sig.
+Notch signaling pathway	Notch sig.
+ErbB signaling pathway	ErbB sig.
+VEGF signaling pathway	VEGF sig.
+Pathways in cancer	Pathways in cancer
+DNA replication	DNA replication
+EGFR tyrosine kinase inhibitor resistance	EGFR tyrosine kinase inhibitor resistance
+Leukocyte transendothelial migration	Leukocyte transendothelial migration
